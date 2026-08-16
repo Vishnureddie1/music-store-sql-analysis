@@ -80,7 +80,7 @@ Based on the Chinook sample database structure, adapted for this project.
 
 ---
 
-Author:D.Vishnu vardhan reddy
-Connect:
+**Author:** D.Vishnu vardhan reddy  
+**Connect:**
 [LinkedIn](https://www.linkedin.com/in/vishnureddy17)|
 [GitHub](https://github.com/Vishnureddie1)
