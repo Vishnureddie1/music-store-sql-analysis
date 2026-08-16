@@ -9,12 +9,12 @@ A relational database and SQL analysis project built on a 10-table music store s
 This project simulates a digital music store's backend database. Using SQL, I designed a normalized relational schema and answered 11 business questions covering sales trends, customer behavior, artist popularity, and country-wise music preferences.
 
 ## 📁 Repository Structure
-'''
+```
 ├── sql/ → Full SQL script (schema + analysis queries)
 ├── data/ → Source CSV files (11 tables)
 ├── presentation/ → Project presentation (PDF)
 └── README.md
-'''
+```
 ## 🧱 Database Schema
 
 The database consists of 11 interrelated tables:
