@@ -15,7 +15,7 @@ This project simulates a digital music store's backend database. Using SQL, I de
 └── README.md
 ## 🧱 Database Schema
 
-The database consists of 10 interrelated tables:
+The database consists of 11 interrelated tables:
 
 | Table | Description |
 |---|---|
