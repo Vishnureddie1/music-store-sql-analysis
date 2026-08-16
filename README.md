@@ -34,7 +34,6 @@ The database consists of 10 interrelated tables:
 
 **Relationships:** Customer → Invoice → InvoiceLine → Track → Album → Artist / Genre, with Employee linked to Customer via `support_rep_id`.
 
-📎 See [`images/er_diagram.png`](images/er_diagram.png) for the full entity-relationship diagram.
 
 ## ❓ Business Questions Answered
 
