@@ -12,7 +12,6 @@ This project simulates a digital music store's backend database. Using SQL, I de
 ├── sql/ → Full SQL script (schema + analysis queries)
 ├── data/ → Source CSV files (11 tables)
 ├── presentation/ → Project presentation (PDF)
-├── images/ → ER diagram
 └── README.md
 ## 🧱 Database Schema
 
@@ -69,7 +68,7 @@ The database consists of 10 interrelated tables:
 ## 🚀 How to Run
 
 1. Clone this repository.
-2. Open MySQL Workbench (or any MySQL client) and run `sql` to create the schema.
+2. Open MySQL Workbench (or any MySQL client) and run `sql/` to create the schema.
 3. Import each CSV in `data/` into its corresponding table via Table Data Import Wizard (or `LOAD DATA INFILE`).
 4. Run the numbered analysis queries at the bottom of the SQL file.
 
