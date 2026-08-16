@@ -65,7 +65,7 @@ The database consists of 10 interrelated tables:
 - Rock is the most consistently popular genre across markets.
 - Top-spending customers vary significantly by country, useful for region-specific marketing.
 
-*(See the full [presentation](presentation/Music_Store_Data_Analysis.pdf) for detailed insights and visuals.)*
+*(See the full [presentation](presentation) for detailed insights and visuals.)*
 
 ## 🚀 How to Run
 
